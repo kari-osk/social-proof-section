@@ -11,12 +11,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](../images/screenshot.png)
+![](screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository](https://github.com/kari-osk/social-proof-section)
+- Live Site URL: [GitHub pages](https://your-live-site-url.com)
 
 ## My process
 
