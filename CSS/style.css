@@ -87,7 +87,7 @@ main {
 
 .client-review {
   width: 350px;
-  max-height: 255px;
+  max-height: 235px;
   background-color: var(--Very-Dark-Magenta);
   border-radius: 10px;
   padding: 35px;
@@ -141,7 +141,7 @@ main {
     width: 1440px;
     height: 800px;
     margin: 0 auto;
-    background-position-x: 10%;
+    background-position-x: 15%;
   }
 
   main {
@@ -165,6 +165,7 @@ main {
     height: auto;
     margin-left: 0;
     font-size: 45px;
+    font-weight: 700;
   }
   .text p {
     width: 428px;
@@ -213,9 +214,9 @@ main {
     margin-top: 0px;
   }
   .client-2 {
-    margin-top: 30px;
+    margin-top: 20px;
   }
   .client-3 {
-    margin-top: 60px;
+    margin-top: 40px;
   }
 }
