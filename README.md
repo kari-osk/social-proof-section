@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/kari-osk/social-proof-section)
-- Live Site URL: [GitHub pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub pages](https://kari-osk.github.io/social-proof-section/)
 
 ## My process
 
@@ -31,4 +31,4 @@ Users should be able to:
 ## Author
 
 - LinkedIn - [Karina Osuka](www.linkedin.com/in/karinaosuka)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kari-osk)
+- Frontend Mentor - [@kari-osk](https://www.frontendmentor.io/profile/kari-osk)
